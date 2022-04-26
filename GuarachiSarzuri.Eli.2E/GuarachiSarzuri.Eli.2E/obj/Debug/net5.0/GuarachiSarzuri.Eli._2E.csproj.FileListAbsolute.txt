@@ -1,0 +1,12 @@
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\bin\Debug\net5.0\GuarachiSarzuri.Eli._2E.deps.json
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\bin\Debug\net5.0\GuarachiSarzuri.Eli._2E.dll
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\bin\Debug\net5.0\ref\GuarachiSarzuri.Eli._2E.dll
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\bin\Debug\net5.0\GuarachiSarzuri.Eli._2E.pdb
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\GuarachiSarzuri.Eli._2E.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\GuarachiSarzuri.Eli._2E.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\GuarachiSarzuri.Eli._2E.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\GuarachiSarzuri.Eli._2E.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\GuarachiSarzuri.Eli._2E.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\GuarachiSarzuri.Eli._2E.dll
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\ref\GuarachiSarzuri.Eli._2E.dll
+C:\Users\Usuario\Desktop\GuarachiSarzuri.Eli.2E\GuarachiSarzuri.Eli.2E\obj\Debug\net5.0\GuarachiSarzuri.Eli._2E.pdb

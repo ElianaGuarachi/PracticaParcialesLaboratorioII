@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GuarachiSarzuri.Eli._2E/1.0.0": {
+        "runtime": {
+          "GuarachiSarzuri.Eli._2E.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GuarachiSarzuri.Eli._2E/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
