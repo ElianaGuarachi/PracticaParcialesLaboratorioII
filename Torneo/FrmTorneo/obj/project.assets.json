@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\GuarachiSarzuri.Eliana.2E\\GuarachiSarzuri.Eliana.2E\\FrmTorneo\\FrmTorneo.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\PracticaPrimerParcial\\Torneo\\FrmTorneo\\FrmTorneo.csproj",
       "projectName": "FrmTorneo",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\GuarachiSarzuri.Eliana.2E\\GuarachiSarzuri.Eliana.2E\\FrmTorneo\\FrmTorneo.csproj",
+      "projectPath": "C:\\Users\\Usuario\\Desktop\\PracticaPrimerParcial\\Torneo\\FrmTorneo\\FrmTorneo.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\GuarachiSarzuri.Eliana.2E\\GuarachiSarzuri.Eliana.2E\\FrmTorneo\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\Desktop\\PracticaPrimerParcial\\Torneo\\FrmTorneo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0-windows7.0": {
           "targetAlias": "net5.0-windows",
           "projectReferences": {
-            "C:\\Users\\Usuario\\Desktop\\GuarachiSarzuri.Eliana.2E\\GuarachiSarzuri.Eliana.2E\\Entidades\\Entidades.csproj": {
-              "projectPath": "C:\\Users\\Usuario\\Desktop\\GuarachiSarzuri.Eliana.2E\\GuarachiSarzuri.Eliana.2E\\Entidades\\Entidades.csproj"
+            "C:\\Users\\Usuario\\Desktop\\PracticaPrimerParcial\\Torneo\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\Usuario\\Desktop\\PracticaPrimerParcial\\Torneo\\Entidades\\Entidades.csproj"
             }
           }
         }
